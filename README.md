@@ -1,3 +1,5 @@
+# IDE
+ - Jupyter Notebook (Anaconda)
 # visualization
 About cafe information
  - This data analysis project was done as a team project.
